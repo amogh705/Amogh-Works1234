@@ -20,6 +20,8 @@ https://www.linkedin.com/in/amogh-laddagi-3a57ab245
 
 https://github.com/amogh705/leetcode-solutions.git
 
+https://github.com/amogh705/aws-projects-1.git
+
 
 # 💫 About Me:
 About Me 🚀<br>🛠️ I’m currently working on ML and software development projects.<br>👯 I’m looking to collaborate on open-source projects, AI, and backend development.<br>🤝 I’m looking for help with deep learning and cloud computing.<br>🌱 I’m currently learning advanced machine learning, cybersecurity, and DevOps.<br>💬 Ask me about Python, SQL, AWS, DB2, networking, and software development.<br>⚡ Fun fact: I love solving real-world problems through code and exploring cybersecurity tricks!<br><br>
